@@ -216,3 +216,5 @@ pip-log.txt
 
 # user added
 *.sqlite3
+*.txt
+.env
